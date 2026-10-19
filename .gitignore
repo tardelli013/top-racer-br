@@ -1,0 +1,22 @@
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build and logs
+build/
+dist/
+out/
+target/
+*.log
